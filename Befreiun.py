@@ -1,15 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-print("""
-  , _ ,
- ( o o )
-|'` ' `'|
-|'''''''|
-|\\'''//|
-   ***
-""")
-print("XIORXA BRUTE FACEBOOK BRUTE FORCE")
+
+print("Befreiun Brute Test")
 
 email = input("[!] Email : ")
 liste = input("[!] Worlist Yolu : ")
